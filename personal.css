@@ -1,0 +1,150 @@
+section{
+    height: 500px;
+    background-color: white;
+    border: solid rgb(203, 43, 43) 1px;
+    font-family: 'Poppins', sans-serif;
+}
+.me{
+    background-color:rgb(45, 40, 40);
+    height: 10vh;
+    color: white;
+    font-size: 40px;
+    
+    
+}
+.intro{
+    background-color: rgb(1, 1, 1);
+    color: white;
+}
+.mehero{
+    display: flex;
+    height: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    width: 200px;
+    text-decoration: none;
+}
+h1{
+    font-size: 90px;
+    margin: 0%;
+
+}
+p{
+    margin: 0;
+    font-weight: 300;
+}
+.me1{
+    margin-left: 40px;
+}
+.button1{
+    width: 200px;
+    height: 55px;
+    background-color: aqua;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+.button1:hover{
+    background-color: brown;
+    color: chartreuse;
+}
+.sociallinks{
+    padding-bottom: 20px;
+    margin: 20px;
+}
+.logo{
+    height: auto;
+    margin: 20px;
+    border-radius: 50%;
+}
+.sub-section{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+h2{
+    font-size: 40px
+}
+p{
+    margin: 0;
+    font-size: 30px;
+}
+.mypic{
+    width: 200px;
+    border-radius: 50%;
+    height: 200px;
+    margin-top: 150px;
+}
+.shootit{
+    display: flex;
+    align-items: center;
+}
+.project1{
+    width: 50%;
+    height: 300px;
+    box-shadow: 5px 5px 20px rgb(219, 77, 11);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.about{
+    text-decoration: underline;
+    color: red;
+}
+.projects{
+    display: flex;
+    justify-content: space-around
+    
+}
+.h2projects{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: dodgerblue;
+    text-decoration: double;
+}
+.subtext{
+    font-size: 15px;
+    font-weight: 200;
+}
+.connect{
+    width: 300px;
+    border-radius: 50%;
+    width: 250px;
+
+}
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sub-section1{
+    background-color: aliceblue;
+    display: flex;
+
+}
+.parame{
+color: rgb(9, 40, 103);
+}
+.footerend{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15px;
+}
